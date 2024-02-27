@@ -6,4 +6,4 @@ Este projeto é um site contendo a obra de cordel denominada "Cordel Moderno - T
 ![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5)
 
 ## Como Visualizar
-Basta clicar em [Cordel Moderno (yan2024.github.io)](https://yan2024.github.io/Projeto_Cordel/) que o site abrirá num navegador da web.
+Basta clicar em [Cordel Moderno (yan2024.github.io)](https://yan2024.github.io/cordel/) que o site abrirá num navegador da web.
